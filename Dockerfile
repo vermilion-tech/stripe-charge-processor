@@ -6,4 +6,4 @@ RUN yarn install
 
 EXPOSE 8080
 
-CMD yarn serve
+CMD yarn start

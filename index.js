@@ -1,6 +1,5 @@
 // load dependencies
-const dotenv = require("dotenv")
-dotenv.config({debug: true})
+const dotenv = require("dotenv").config();
 
 const express = require("express");
 const morgan = require("morgan");
